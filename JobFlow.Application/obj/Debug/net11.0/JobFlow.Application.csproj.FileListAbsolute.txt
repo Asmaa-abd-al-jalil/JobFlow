@@ -13,3 +13,4 @@ D:\asp.net projects\JobFlow\JobFlow.Application\obj\Debug\net11.0\JobFlow.Applic
 D:\asp.net projects\JobFlow\JobFlow.Application\obj\Debug\net11.0\refint\JobFlow.Application.dll
 D:\asp.net projects\JobFlow\JobFlow.Application\obj\Debug\net11.0\JobFlow.Application.pdb
 D:\asp.net projects\JobFlow\JobFlow.Application\obj\Debug\net11.0\ref\JobFlow.Application.dll
+D:\asp.net projects\JobFlow\JobFlow.Application\obj\Debug\net11.0\JobFlow.Application.sourcelink.json
