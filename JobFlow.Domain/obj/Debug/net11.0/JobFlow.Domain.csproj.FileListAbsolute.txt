@@ -1,0 +1,12 @@
+D:\asp.net projects\JobFlow\JobFlow.Domain\bin\Debug\net11.0\JobFlow.Domain.deps.json
+D:\asp.net projects\JobFlow\JobFlow.Domain\bin\Debug\net11.0\JobFlow.Domain.dll
+D:\asp.net projects\JobFlow\JobFlow.Domain\bin\Debug\net11.0\JobFlow.Domain.pdb
+D:\asp.net projects\JobFlow\JobFlow.Domain\obj\Debug\net11.0\JobFlow.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\asp.net projects\JobFlow\JobFlow.Domain\obj\Debug\net11.0\JobFlow.Domain.AssemblyInfoInputs.cache
+D:\asp.net projects\JobFlow\JobFlow.Domain\obj\Debug\net11.0\JobFlow.Domain.AssemblyInfo.cs
+D:\asp.net projects\JobFlow\JobFlow.Domain\obj\Debug\net11.0\JobFlow.Domain.csproj.CoreCompileInputs.cache
+D:\asp.net projects\JobFlow\JobFlow.Domain\obj\Debug\net11.0\JobFlow.Domain.dll
+D:\asp.net projects\JobFlow\JobFlow.Domain\obj\Debug\net11.0\refint\JobFlow.Domain.dll
+D:\asp.net projects\JobFlow\JobFlow.Domain\obj\Debug\net11.0\JobFlow.Domain.pdb
+D:\asp.net projects\JobFlow\JobFlow.Domain\obj\Debug\net11.0\ref\JobFlow.Domain.dll
+D:\asp.net projects\JobFlow\JobFlow.Domain\obj\Debug\net11.0\JobFlow..45B2C5A0.Up2Date

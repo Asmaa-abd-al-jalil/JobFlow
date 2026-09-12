@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "xP+1zrJqXc4=",
+  "success": true,
+  "projectFilePath": "D:\\asp.net projects\\JobFlow\\JobFlow.Api\\JobFlow.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\new\\.nuget\\packages\\microsoft.aspnetcore.openapi\\11.0.0-preview.7.26381.103\\microsoft.aspnetcore.openapi.11.0.0-preview.7.26381.103.nupkg.sha512",
+    "C:\\Users\\new\\.nuget\\packages\\microsoft.openapi\\3.9.0\\microsoft.openapi.3.9.0.nupkg.sha512"
+  ],
+  "logs": []
+}

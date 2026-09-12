@@ -1,0 +1,17 @@
+D:\asp.net projects\JobFlow\JobFlow.Infrastructure\bin\Debug\net11.0\JobFlow.Infrastructure.deps.json
+D:\asp.net projects\JobFlow\JobFlow.Infrastructure\bin\Debug\net11.0\JobFlow.Infrastructure.dll
+D:\asp.net projects\JobFlow\JobFlow.Infrastructure\bin\Debug\net11.0\JobFlow.Infrastructure.pdb
+D:\asp.net projects\JobFlow\JobFlow.Infrastructure\bin\Debug\net11.0\JobFlow.Application.dll
+D:\asp.net projects\JobFlow\JobFlow.Infrastructure\bin\Debug\net11.0\JobFlow.Domain.dll
+D:\asp.net projects\JobFlow\JobFlow.Infrastructure\bin\Debug\net11.0\JobFlow.Application.pdb
+D:\asp.net projects\JobFlow\JobFlow.Infrastructure\bin\Debug\net11.0\JobFlow.Domain.pdb
+D:\asp.net projects\JobFlow\JobFlow.Infrastructure\obj\Debug\net11.0\JobFlow.Infrastructure.csproj.AssemblyReference.cache
+D:\asp.net projects\JobFlow\JobFlow.Infrastructure\obj\Debug\net11.0\JobFlow.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\asp.net projects\JobFlow\JobFlow.Infrastructure\obj\Debug\net11.0\JobFlow.Infrastructure.AssemblyInfoInputs.cache
+D:\asp.net projects\JobFlow\JobFlow.Infrastructure\obj\Debug\net11.0\JobFlow.Infrastructure.AssemblyInfo.cs
+D:\asp.net projects\JobFlow\JobFlow.Infrastructure\obj\Debug\net11.0\JobFlow.Infrastructure.csproj.CoreCompileInputs.cache
+D:\asp.net projects\JobFlow\JobFlow.Infrastructure\obj\Debug\net11.0\JobFlow..FCE4D977.Up2Date
+D:\asp.net projects\JobFlow\JobFlow.Infrastructure\obj\Debug\net11.0\JobFlow.Infrastructure.dll
+D:\asp.net projects\JobFlow\JobFlow.Infrastructure\obj\Debug\net11.0\refint\JobFlow.Infrastructure.dll
+D:\asp.net projects\JobFlow\JobFlow.Infrastructure\obj\Debug\net11.0\JobFlow.Infrastructure.pdb
+D:\asp.net projects\JobFlow\JobFlow.Infrastructure\obj\Debug\net11.0\ref\JobFlow.Infrastructure.dll
